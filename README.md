@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dikshakadhikari&label=Profile%20views&color=0e75b6&style=flat" alt="dikshakadhikari" /> </p>
 
-- 🌱 I’m currently learning **Next.js and Tailwind**
+- 🌱 I’m currently learning **WebSockets and WebRTC**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DikshakAdhikari?tab=repositories](https://github.com/DikshakAdhikari?tab=repositories)
+- 👨‍💻 All of my projects are available at https://portfolio-dikshakadhikari.vercel.app/
 
 - 📫 How to reach me **ddikshakk@gmail.com**
 
