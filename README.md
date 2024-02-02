@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ddikshakk@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1LjlvhcSHm0d2ry6tA5W7_UY3WEkcyYo9](https://drive.google.com/drive/folders/1LjlvhcSHm0d2ry6tA5W7_UY3WEkcyYo9)
+- 📄 Know about my experiences https://www.linkedin.com/in/dikshakadhikari/
 
 - ⚡ Fun fact **Drinking Tea :)**
 
