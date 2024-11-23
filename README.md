@@ -9,5 +9,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dikshakadhikari&show_icons=true&locale=en&layout=compact" alt="dikshakadhikari" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dikshakadhikari&show_icons=true&locale=en" alt="dikshakadhikari" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dikshakadhikari&" alt="dikshakadhikari" /></p>
